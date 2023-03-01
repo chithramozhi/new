@@ -1,0 +1,86 @@
+{
+    "name":"Chithramozhi SK",
+    "email":"chithramozhisk15@gmail.com",
+    "designation":"SAP Ui5 Fiori Consultant",
+    "phone":"+91-8072866624",
+    "currentcompany":"ATOS,Chennai",
+    "education":[
+        {
+            "type":"Xth",
+            "per":"97%",
+            "year":2014
+        },
+        {
+            "type":"XIIth",
+            "per":"69%",
+            "year":2016
+        },
+        {
+            "type":"B.E Computer Science and Engineering",
+            "per":"73%",
+            "year":2020
+        }
+    ], 
+    "certification":[
+        {
+            "name":"SAPUI5( UI5 / FIORI ) In-depth App development",
+            "year":"Udemy"
+        },
+        {
+            "name":"Data Centre Virtualization Fundamentals ",
+            "year":"VM Ware"
+        },
+        {
+            "name":"Cloud Practitioner - AWS",
+            "year":"ICT Academy"
+        },
+        {
+            "name":"Green Foot Game Development",
+            "year":"Oracle Academy"
+
+        }
+    ], 
+    "employment":[
+        {  "name":"ATOS,Chennai",
+           "projects":[
+               {
+               "name":"AHT Accelerator",
+               "type":" Developed a Ui5 application and created database using SAP HANA Cloud Platform and working on feature Updates"
+           },
+           {
+               "name":"NTUA(Navajo Tribal Utility Authority Home)",
+               "type":"Developed Custom Fiori Applications and Configured, Tested Standard Fiori applications"
+            },
+            {
+                "name":"European Commission",
+                "type":"Has worked as a POC for EC and has experience in SAP SuccessFactors Work-Zone Development"
+             },
+             {
+                "name":"ATOS Preconfigured Solution",
+                "type":[
+                    "Experience in Developing SAP UI5 Apps",
+                    
+                   
+                    "Developed SAP Business Work-Flow for Budget request and approval process and has good knowledge in Work-Flow development"
+            ]
+             },
+             {
+                "name":"",
+                "type":"Developed Ui5 applications with SAP UI5 controls and Fiori Design patterns, OData/JSON services"
+             },
+             {
+                "name":"",
+                "type": "Hands-on experience with SAP Business Application Studio"
+             }
+             ]
+   
+    
+  }
+  
+]
+
+
+
+
+
+}
